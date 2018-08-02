@@ -1,0 +1,330 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ar",
+				"area"
+			],
+			[
+				"sub",
+				"subAreaName"
+			],
+			[
+				"area",
+				"areaId"
+			],
+			[
+				"V",
+				"VARCHAR"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"C",
+				"CHARSET"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"list-sty",
+				"list-style-image"
+			],
+			[
+				"f-si",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bl",
+				"bold"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"fotn-s",
+				"font-size"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"clear",
+				"clearfloat"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"b",
+				"baseline"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"pa",
+				"pageX"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"to",
+				"touch"
+			],
+			[
+				"touchm",
+				"touchmove"
+			],
+			[
+				"touch",
+				"touchstart"
+			],
+			[
+				"touchstart",
+				"touchstart"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 60.0,
+		"last_filter": "install package",
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 594.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/pro/register.html",
+		"/D/xampp/htdocs/ulift/sql/ulift.sql",
+		"/D/xampp/htdocs/ulift/sql/ulife.sql",
+		"/C/Users/admin/Desktop/project/index.html",
+		"/C/Users/admin/Desktop/project/index.css",
+		"/C/Users/admin/Desktop/project/main.css",
+		"/D/xampp/htdocs/ulift/js/main.js",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.648/zf_list.js",
+		"/D/xampp/htdocs/ulift/php/zf_list.php",
+		"/C/Users/admin/Desktop/ulift.sql",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.270/ulift.sql",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.944/ulift.sql",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.969/zf_list.js",
+		"/D/xampp/htdocs/ulift/js/zf_list.js",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.933/ulift.sql",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa0.006/ulift.sql",
+		"/D/xampp/htdocs/ulift/js/news.js",
+		"/D/xampp/htdocs/ulift/js/zf_details.js",
+		"/C/Users/admin/Desktop/project/data/mofang.sql",
+		"/D/xampp/htdocs/ulife/sql/ulift.sql",
+		"/C/Users/admin/Desktop/day06_all/js/main.js",
+		"/C/Users/admin/Desktop/day06_all/js/news.js",
+		"/C/Users/admin/Desktop/mofang.sql",
+		"/D/Sublime Text3/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/admin/Desktop/event.html",
+		"/D/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/admin/Desktop/touch.html",
+		"/C/Users/admin/Desktop/scrolldown.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"userId",
+			"h2",
+			"main_title ",
+			".navlist_item>a",
+			"=\"\"></",
+			"class=\"content\"",
+			"des_content",
+			"src=\"",
+			">\n",
+			"list-item",
+			".banner",
+			"navlist_item",
+			"touchStart",
+			");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "register.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 144.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
